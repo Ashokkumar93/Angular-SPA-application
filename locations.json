@@ -1,0 +1,29 @@
+[
+  {
+  	"id":1,
+  	"name":"Lynn Location",
+  	"street_address":"555 western ave",
+  	"city":"Lynn",
+  	"state":"MA",
+  	"zip":"01902",
+  	"phone":"7845962314"
+  },
+  {
+  	"id":2,
+  	"name":"Fremont Location",
+  	"street_address":"4585 western ave",
+  	"city":"Fremont",
+  	"state":"CA",
+  	"zip":"94538",
+  	"phone":"5103962314"
+  },
+  {
+  	"id":3,
+  	"name":"San Jose Location",
+  	"street_address":"895 Down town",
+  	"city":"San Jose",
+  	"state":"Ca",
+  	"zip":"5689",
+  	"phone":"5894962314"
+  }
+]
